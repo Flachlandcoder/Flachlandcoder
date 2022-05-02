@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flachlandcoder
 - 👀 I’m interested in microcontrollers, embedded programming and Linux 
 - 🌱 I’m currently learning Micropython
-- 💞️ I’m looking to collaborate on libraries for Micropython, STM32, ESP32...
+- 💞️ I’m looking to collaborate on HW driver libraries for Micropython, STM32, ESP32...
 - 📫 How to reach me: matthias.meuren<at>gmx.de
 
 <!---
